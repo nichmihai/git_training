@@ -2,3 +2,4 @@ Hi! I'm Alice. I'm a file someone added to this repository a while ago.
 And now I live in Mike's git repository and he made some changes.
 Now he's adding the third line to me :)
 Now he's making a fourth change to me.
+Hey we're adding a change simulating something like someone else is also working on our project.
